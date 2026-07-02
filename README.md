@@ -31,7 +31,7 @@ ORDER BY pct_surface DESC;
 Quaternary sediments blanket 17.9% of global land — more than any other period. 
 Cretaceous rocks are second at 11.8%, reflecting widespread marine carbonate 
 deposition. The Triassic (6.0%) outpaces the Jurassic (2.9%), a pattern driven 
-by large continental interior basins (Karoo, Russian Platform).
+by large continental interior basins--something worth further investigation.
 
 ## Tools
 - Python, GeoPandas, pyogrio, shapely
